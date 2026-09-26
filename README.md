@@ -1,41 +1,122 @@
-<h1 align="center">Hi 👋, I'm Gamze</h1>
-<h3 align="center">A passionate candidate cyber security analyst from Türkiye</h3>
+# Hi, I'm Gamze 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamze-tunc&label=Profile%20views&color=0e75b6&style=flat" alt="gamze-tunc" /> </p>
+I'm a **Management Information Systems graduate** with an additional degree in **Computer Programming** and a background in **Russian Language & Literature**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamze-tunc" alt="gamze-tunc" /></a> </p>
+I enjoy turning real-world problems into practical software products — from identifying the problem and defining requirements to development, testing, documentation, and iteration.
 
-- 🔭 I’m currently working on **cyber security**
+My current focus is on **Business Analysis, Software Development, and Quality Assurance**, supported by previous training and experience in **Cybersecurity**.
 
-- 🌱 I’m currently learning **dynamic, static analysis, forensic**
+## 🚀 What I'm Working On
 
-- 👯 I’m looking to collaborate on **blue team**
+### 📩 Talep Merkezi — Support Request Management System
 
-- 🤝 I’m looking for help with **malware analysis**
+A support request management system inspired by real operational challenges in software support.
 
-- 📝 I regularly write articles on [https://medium.com/@ggamzettunc](https://medium.com/@ggamzettunc)
+The project focuses on:
 
-- 💬 Ask me about **SOC Analyst**
+* Structured customer support requests
+* Customer and team communication
+* Request status tracking
+* Configurable request categories
+* Notifications
+* Customer history
+* Role-based workflows
+* PWA/mobile-friendly usage
 
-- 📫 How to reach me **ggamzettunc@gmail.com**
+**Tech:** JavaScript, Node.js, SQLite, PWA
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✈️ Fly — Flight Search & Price Comparison
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gamze-tunc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gamze-tunc/" height="30" width="40" /></a>
-<a href="https://medium.com/@ggamzettunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ggamzettunc" height="30" width="40" /></a>
-</p>
+A flight search and price comparison project designed as a real end-to-end product rather than a coding demo.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+The project includes:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamze-tunc&show_icons=true&locale=en&layout=compact" alt="gamze-tunc" /></p>
+* Flight search
+* Price comparison
+* Flexible-date exploration
+* Search filters
+* External flight data integration
+* Product, QA, and business-analysis documentation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamze-tunc&show_icons=true&locale=en" alt="gamze-tunc" /></p>
+**Tech:** Python, API integration, React/TypeScript
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamze-tunc&" alt="gamze-tunc" /></p>
+## 🎮 Game Development
 
+I'm also developing a small collection of games with the goal of publishing them on mobile platforms.
 
+Current projects include:
+
+* **Maze** — tilt-controlled maze game
+* **Hidden Object** — object-finding game with randomized placements
+* **Memory Match** — level-based memory matching game
+* **Match-3** — puzzle game currently being developed
+
+Game development gives me another environment to practice product design, testing, user experience, iteration, and release management.
+
+## 📊 Business Analysis & Product Work
+
+Alongside development, I work on projects from a business and product perspective:
+
+* Requirements analysis
+* Functional and non-functional requirements
+* User stories and acceptance criteria
+* Process and user-flow design
+* MVP definition
+* Risk analysis
+* Test scenarios and test cases
+* Product documentation
+
+I'm particularly interested in the space between **business needs and technical implementation**.
+
+## 🛡️ Cybersecurity Background
+
+My earlier technical focus was cybersecurity, particularly defensive security.
+
+My training includes:
+
+* Network fundamentals
+* Cybersecurity operations
+* Threat hunting
+* Security monitoring
+* Static and dynamic analysis fundamentals
+
+This background continues to influence how I approach software design, especially around security, data handling, and system reliability.
+
+## 🧰 Technologies & Tools
+
+**Languages & Development**
+
+`Python` · `C#` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `SQL`
+
+**Frameworks & Platforms**
+
+`React` · `Node.js` · `Flask` · `ASP.NET Core MVC` · `Unity`
+
+**Databases**
+
+`SQLite` · `SQL Server`
+
+**Tools & Practices**
+
+`Git` · `GitHub` · `REST APIs` · `Postman` · `Jira` · `VS Code` · `Figma`
+
+## 🌱 Current Focus
+
+* Business Analysis
+* Software Quality Assurance
+* Requirements Engineering
+* API Testing
+* Product Development
+* End-to-End Software Delivery
+
+## 🎓 Education
+
+* **B.Sc. Management Information Systems** — Anadolu University
+* **A.A. Computer Programming** — Kayseri University
+* **B.A. Russian Language & Literature** — Erciyes University
+
+## 📫 Connect With Me
+
+Feel free to explore my projects or connect with me on LinkedIn.
+
+I'm especially interested in opportunities involving **Business Analysis, Product/Software Development, and Quality Assurance**.
